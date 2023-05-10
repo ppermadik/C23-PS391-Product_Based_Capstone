@@ -1,0 +1,100 @@
+<table><thead>
+    <tr>
+        <th rowspan='2' style='background-color:#c8e9ee;font-size:medium;vertical-align: middle;border: 1px solid black;'>Komoditas</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2012</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2013</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2014</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2015</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2016</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2017</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2018</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2019</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2020</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2021</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2022</th><th colspan='2' style='text-align:center;background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>2023</th></tr>
+            <tr><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Volume KG</th><th class='text-right' style='background-color:#c8e9ee;font-size:medium;border: 1px solid black;'>Nilai USD</th></tr></thead><tbody><tr><td style='border: 1px solid black'>Cumi-Sotong-Gurita</td><td align='right' style='border: 1px solid black'>82.140.481</td>
+        <td align='right' style='border: 1px solid black'>171.884.023</td><td align='right' style='border: 1px solid black'>90.245.461</td>
+        <td align='right' style='border: 1px solid black'>149.734.236</td><td align='right' style='border: 1px solid black'>77.707.758</td>
+        <td align='right' style='border: 1px solid black'>154.914.091</td><td align='right' style='border: 1px solid black'>98.996.233</td>
+        <td align='right' style='border: 1px solid black'>212.699.773</td><td align='right' style='border: 1px solid black'>122.134.477</td>
+        <td align='right' style='border: 1px solid black'>337.391.441</td><td align='right' style='border: 1px solid black'>120.399.288</td>
+        <td align='right' style='border: 1px solid black'>397.333.386</td><td align='right' style='border: 1px solid black'>152.108.581</td>
+        <td align='right' style='border: 1px solid black'>554.594.192</td><td align='right' style='border: 1px solid black'>143.847.343</td>
+        <td align='right' style='border: 1px solid black'>556.290.651</td><td align='right' style='border: 1px solid black'>140.036.315</td>
+        <td align='right' style='border: 1px solid black'>509.223.240</td><td align='right' style='border: 1px solid black'>168.225.555</td>
+        <td align='right' style='border: 1px solid black'>618.934.663</td><td align='right' style='border: 1px solid black'>157.722.813</td>
+        <td align='right' style='border: 1px solid black'>737.127.121</td><td align='right' style='border: 1px solid black'>20.075.516</td>
+        <td align='right' style='border: 1px solid black'>99.045.231</td><tr><td style='border: 1px solid black'>Komoditas Lainnya</td><td align='right' style='border: 1px solid black'>616.489.077</td>
+        <td align='right' style='border: 1px solid black'>1.210.272.078</td><td align='right' style='border: 1px solid black'>596.669.161</td>
+        <td align='right' style='border: 1px solid black'>1.127.565.073</td><td align='right' style='border: 1px solid black'>587.159.832</td>
+        <td align='right' style='border: 1px solid black'>1.154.208.184</td><td align='right' style='border: 1px solid black'>407.029.117</td>
+        <td align='right' style='border: 1px solid black'>1.182.421.468</td><td align='right' style='border: 1px solid black'>417.906.125</td>
+        <td align='right' style='border: 1px solid black'>1.217.046.207</td><td align='right' style='border: 1px solid black'>358.647.596</td>
+        <td align='right' style='border: 1px solid black'>1.102.956.624</td><td align='right' style='border: 1px solid black'>366.513.296</td>
+        <td align='right' style='border: 1px solid black'>1.084.762.122</td><td align='right' style='border: 1px solid black'>413.307.247</td>
+        <td align='right' style='border: 1px solid black'>1.194.611.347</td><td align='right' style='border: 1px solid black'>464.562.133</td>
+        <td align='right' style='border: 1px solid black'>1.284.587.630</td><td align='right' style='border: 1px solid black'>370.404.108</td>
+        <td align='right' style='border: 1px solid black'>1.179.641.114</td><td align='right' style='border: 1px solid black'>347.555.035</td>
+        <td align='right' style='border: 1px solid black'>1.302.973.064</td><td align='right' style='border: 1px solid black'>49.037.712</td>
+        <td align='right' style='border: 1px solid black'>190.946.992</td><tr><td style='border: 1px solid black'>Lobster</td><td align='right' style='border: 1px solid black'>5.294.567</td>
+        <td align='right' style='border: 1px solid black'>50.574.205</td><td align='right' style='border: 1px solid black'>5.148.537</td>
+        <td align='right' style='border: 1px solid black'>69.921.743</td><td align='right' style='border: 1px solid black'>3.179.176</td>
+        <td align='right' style='border: 1px solid black'>42.097.328</td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><tr><td style='border: 1px solid black'>Mutiara</td><td align='right' style='border: 1px solid black'>4.779</td>
+        <td align='right' style='border: 1px solid black'>29.626.794</td><td align='right' style='border: 1px solid black'>4.724</td>
+        <td align='right' style='border: 1px solid black'>26.263.231</td><td align='right' style='border: 1px solid black'>6.565</td>
+        <td align='right' style='border: 1px solid black'>28.783.382</td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><td align='right' style='border: 1px solid black'></td>
+        <td align='right' style='border: 1px solid black'></td><tr><td style='border: 1px solid black'>Rajungan-Kepiting</td><td align='right' style='border: 1px solid black'>28.211.671</td>
+        <td align='right' style='border: 1px solid black'>329.724.481</td><td align='right' style='border: 1px solid black'>34.172.765</td>
+        <td align='right' style='border: 1px solid black'>359.304.277</td><td align='right' style='border: 1px solid black'>28.091.113</td>
+        <td align='right' style='border: 1px solid black'>414.372.377</td><td align='right' style='border: 1px solid black'>23.745.588</td>
+        <td align='right' style='border: 1px solid black'>309.734.513</td><td align='right' style='border: 1px solid black'>29.040.382</td>
+        <td align='right' style='border: 1px solid black'>321.846.423</td><td align='right' style='border: 1px solid black'>27.067.093</td>
+        <td align='right' style='border: 1px solid black'>409.816.291</td><td align='right' style='border: 1px solid black'>27.791.618</td>
+        <td align='right' style='border: 1px solid black'>472.962.123</td><td align='right' style='border: 1px solid black'>25.942.911</td>
+        <td align='right' style='border: 1px solid black'>393.497.774</td><td align='right' style='border: 1px solid black'>27.616.332</td>
+        <td align='right' style='border: 1px solid black'>367.519.713</td><td align='right' style='border: 1px solid black'>32.183.312</td>
+        <td align='right' style='border: 1px solid black'>613.245.483</td><td align='right' style='border: 1px solid black'>29.177.606</td>
+        <td align='right' style='border: 1px solid black'>484.227.858</td><td align='right' style='border: 1px solid black'>5.758.204</td>
+        <td align='right' style='border: 1px solid black'>70.050.783</td><tr><td style='border: 1px solid black'>Rumput Laut </td><td align='right' style='border: 1px solid black'>174.010.935</td>
+        <td align='right' style='border: 1px solid black'>177.924.787</td><td align='right' style='border: 1px solid black'>181.926.596</td>
+        <td align='right' style='border: 1px solid black'>209.539.300</td><td align='right' style='border: 1px solid black'>206.451.624</td>
+        <td align='right' style='border: 1px solid black'>279.539.514</td><td align='right' style='border: 1px solid black'>211.871.518</td>
+        <td align='right' style='border: 1px solid black'>205.320.091</td><td align='right' style='border: 1px solid black'>188.298.633</td>
+        <td align='right' style='border: 1px solid black'>161.801.974</td><td align='right' style='border: 1px solid black'>191.853.522</td>
+        <td align='right' style='border: 1px solid black'>204.871.977</td><td align='right' style='border: 1px solid black'>212.961.523</td>
+        <td align='right' style='border: 1px solid black'>291.837.226</td><td align='right' style='border: 1px solid black'>209.241.303</td>
+        <td align='right' style='border: 1px solid black'>324.849.979</td><td align='right' style='border: 1px solid black'>195.573.600</td>
+        <td align='right' style='border: 1px solid black'>279.582.592</td><td align='right' style='border: 1px solid black'>225.612.160</td>
+        <td align='right' style='border: 1px solid black'>345.114.331</td><td align='right' style='border: 1px solid black'>253.680.065</td>
+        <td align='right' style='border: 1px solid black'>600.356.448</td><td align='right' style='border: 1px solid black'>33.781.568</td>
+        <td align='right' style='border: 1px solid black'>75.698.105</td><tr><td style='border: 1px solid black'>Tuna-Tongkol-Cakalang</td><td align='right' style='border: 1px solid black'>201.143.128</td>
+        <td align='right' style='border: 1px solid black'>749.918.339</td><td align='right' style='border: 1px solid black'>209.069.596</td>
+        <td align='right' style='border: 1px solid black'>764.790.655</td><td align='right' style='border: 1px solid black'>206.560.582</td>
+        <td align='right' style='border: 1px solid black'>692.447.629</td><td align='right' style='border: 1px solid black'>172.292.906</td>
+        <td align='right' style='border: 1px solid black'>583.588.019</td><td align='right' style='border: 1px solid black'>145.900.324</td>
+        <td align='right' style='border: 1px solid black'>566.162.005</td><td align='right' style='border: 1px solid black'>198.151.578</td>
+        <td align='right' style='border: 1px solid black'>660.154.424</td><td align='right' style='border: 1px solid black'>168.433.759</td>
+        <td align='right' style='border: 1px solid black'>713.919.147</td><td align='right' style='border: 1px solid black'>184.130.234</td>
+        <td align='right' style='border: 1px solid black'>747.538.122</td><td align='right' style='border: 1px solid black'>195.759.299</td>
+        <td align='right' style='border: 1px solid black'>724.095.088</td><td align='right' style='border: 1px solid black'>174.764.040</td>
+        <td align='right' style='border: 1px solid black'>732.944.408</td><td align='right' style='border: 1px solid black'>194.723.525</td>
+        <td align='right' style='border: 1px solid black'>960.265.834</td><td align='right' style='border: 1px solid black'>35.270.425</td>
+        <td align='right' style='border: 1px solid black'>144.527.685</td><tr><td style='border: 1px solid black'>Udang</td><td align='right' style='border: 1px solid black'>132.793.869</td>
+        <td align='right' style='border: 1px solid black'>1.151.416.246</td><td align='right' style='border: 1px solid black'>138.181.424</td>
+        <td align='right' style='border: 1px solid black'>1.454.235.487</td><td align='right' style='border: 1px solid black'>164.070.082</td>
+        <td align='right' style='border: 1px solid black'>1.875.173.175</td><td align='right' style='border: 1px solid black'>162.256.338</td>
+        <td align='right' style='border: 1px solid black'>1.449.927.739</td><td align='right' style='border: 1px solid black'>171.882.960</td>
+        <td align='right' style='border: 1px solid black'>1.567.994.578</td><td align='right' style='border: 1px solid black'>180.592.220</td>
+        <td align='right' style='border: 1px solid black'>1.748.135.758</td><td align='right' style='border: 1px solid black'>197.433.608</td>
+        <td align='right' style='border: 1px solid black'>1.742.119.193</td><td align='right' style='border: 1px solid black'>207.702.651</td>
+        <td align='right' style='border: 1px solid black'>1.719.172.129</td><td align='right' style='border: 1px solid black'>239.282.011</td>
+        <td align='right' style='border: 1px solid black'>2.040.184.255</td><td align='right' style='border: 1px solid black'>250.715.434</td>
+        <td align='right' style='border: 1px solid black'>2.228.947.835</td><td align='right' style='border: 1px solid black'>241.200.644</td>
+        <td align='right' style='border: 1px solid black'>2.157.134.393</td><td align='right' style='border: 1px solid black'>35.044.392</td>
+        <td align='right' style='border: 1px solid black'>277.309.615</td></tbody></table>
