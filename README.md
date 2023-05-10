@@ -3,3 +3,6 @@ This repository is a product based capstone by six Bangkit students from 3 diffe
 
 Link Proposal :
 https://docs.google.com/document/d/1Nya54WM4uIR5ZJWGUpKxA1BnF3crrVZJSB6NzCxSevw/edit?pli=1
+
+Link Projecy Mnagement :
+https://docs.google.com/document/d/1yd3Im6WcCMoqK3yQVaOUEPDG8Li8RNj883EuuufmmrI/edit
