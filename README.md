@@ -6,3 +6,6 @@ https://docs.google.com/document/d/1fIt5-KQjEcYFIdaZUquNmZB0iSlKSyWEVB30_yUXHIo/
 
 Link Project Mnagement :
 https://docs.google.com/document/d/1yd3Im6WcCMoqK3yQVaOUEPDG8Li8RNj883EuuufmmrI/edit
+
+Link Prototype Aplikasi :
+https://www.figma.com/file/9g0RRt0nb57eDnB1tqJoiM/MyRitime?type=design&node-id=0%3A1&t=HfwGBlDTOt3DIfAx-1
