@@ -3,3 +3,6 @@ This repository is a product based capstone by six Bangkit students from 3 diffe
 
 Link Proposal :
 https://docs.google.com/document/d/1Nya54WM4uIR5ZJWGUpKxA1BnF3crrVZJSB6NzCxSevw/edit?pli=1
+
+Detik Scrapper End Point :
+https://news-scraper-o322inq5pa-et.a.run.app/detik
