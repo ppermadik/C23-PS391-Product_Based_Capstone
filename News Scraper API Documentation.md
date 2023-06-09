@@ -67,3 +67,45 @@ The API is deployed and accessible at https://news-scraper-o322inq5pa-et.a.run.a
 ## Note
 
 Please ensure that you understand the legal and ethical obligations when performing web scraping. This includes not overloading the server, respecting the `robots.txt` file of the websites, and ensuring you have the necessary permissions to scrape and use the data.
+
+## Here's how you can do it:
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>News</h2>
+
+<div id="newsContainer"></div>
+
+<script>
+fetch('https://news-scraper-o322inq5pa-et.a.run.app/detik')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.json();
+  })
+  .then(data => {
+    // Here 'data' is the JSON response from your API. 
+    // You can use it to populate your frontend.
+    var newsContainer = document.getElementById('newsContainer');
+
+    data.data.forEach(newsItem => {
+      var newsElement = document.createElement('div');
+      newsElement.innerHTML = `
+        <h3>${newsItem.title}</h3>
+        <p>${newsItem.date}</p>
+        <p>${newsItem.content}</p>
+        <img src="${newsItem.imageUrl}" alt="${newsItem.title}">
+      `;
+      newsContainer.appendChild(newsElement);
+    });
+  })
+  .catch(error => {
+    // If there's an error, log it
+    console.error('There has been a problem with your fetch operation:', error);
+  });
+</script>
+
+</body>
+</html>
