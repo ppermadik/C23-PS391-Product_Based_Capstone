@@ -69,6 +69,10 @@ The API is deployed and accessible at https://news-scraper-o322inq5pa-et.a.run.a
 Please ensure that you understand the legal and ethical obligations when performing web scraping. This includes not overloading the server, respecting the `robots.txt` file of the websites, and ensuring you have the necessary permissions to scrape and use the data.
 
 ## Here's how you can do it:
+
+
+
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -109,3 +113,6 @@ fetch('https://news-scraper-o322inq5pa-et.a.run.app/detik')
 
 </body>
 </html>
+```
+
+This code first fetches the data from your API and then dynamically creates HTML elements for each news item in the response. It inserts an `h3` tag for the title, two `p` tags for the date and content, and an `img` tag for the image. 
