@@ -3,4 +3,4 @@ The weather dataset consists of two types:
  and the other on is a time series data to predict temperature, humidity, and other data that helps to classify weather.
 
 The source of the time series data is from: https://dataonline.bmkg.go.id/data_iklim
-The source of the classification data is from:   
+The source of the classification data is from: https://www.kaggle.com/datasets/muthuj7/weather-dataset  
