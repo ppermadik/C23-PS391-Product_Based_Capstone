@@ -1,0 +1,4 @@
+The fish price dataset consists of daily time series data from May 2018-May 2023.
+The price is from some city/region in East Java
+
+The source of the data is from: https://siskaperbapo.jatimprov.go.id/
