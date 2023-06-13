@@ -1,0 +1,72 @@
+Target Label: Breezy
+Encode Label: 0
+Jumlah Baris: 54
+
+Target Label: Breezy and Foggy
+Encode Label: 1
+Jumlah Baris: 35
+
+Target Label: Breezy and Mostly Cloudy
+Encode Label: 2
+Jumlah Baris: 516
+
+Target Label: Breezy and Overcast
+Encode Label: 3
+Jumlah Baris: 528
+
+Target Label: Breezy and Partly Cloudy
+Encode Label: 4
+Jumlah Baris: 386
+
+Target Label: Clear
+Encode Label: 5
+Jumlah Baris: 327
+
+Target Label: Drizzle
+Encode Label: 6
+Jumlah Baris: 39
+
+Target Label: Dry
+Encode Label: 7
+Jumlah Baris: 34
+
+Target Label: Dry and Partly Cloudy
+Encode Label: 8
+Jumlah Baris: 86
+
+Target Label: Foggy
+Encode Label: 9
+Jumlah Baris: 214
+
+Target Label: Humid and Mostly Cloudy
+Encode Label: 10
+Jumlah Baris: 40
+
+Target Label: Light Rain
+Encode Label: 11
+Jumlah Baris: 63
+
+Target Label: Mostly Cloudy
+Encode Label: 12
+Jumlah Baris: 843
+
+Target Label: Overcast
+Encode Label: 13
+Jumlah Baris: 498
+
+Target Label: Partly Cloudy
+Encode Label: 14
+Jumlah Baris: 952
+
+Target Label: Windy and Mostly Cloudy
+Encode Label: 15
+Jumlah Baris: 35
+
+Target Label: Windy and Overcast
+Encode Label: 16
+Jumlah Baris: 45
+
+Target Label: Windy and Partly Cloudy
+Encode Label: 17
+Jumlah Baris: 67
+
