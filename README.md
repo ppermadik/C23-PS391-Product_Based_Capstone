@@ -15,3 +15,6 @@ https://docs.google.com/document/d/1chZSjukLPpnGbzlxV9wKPNZywdKgOVd4W8TG9U27E_I/
 
 Project Brief Link:
 https://docs.google.com/document/d/1eyBP6z_2kyb_fZT2kLN_Ssbhgquljsds4DFA0D_WSAg/edit?usp=sharing
+
+Project Presentation Link:
+https://docs.google.com/presentation/d/1SYJuavD0JkUOKX4wue9NontxUZQIs-cFw12ezTHdVdU/edit?usp=sharing
