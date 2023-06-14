@@ -12,6 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "logintest2"
-include ':app'
+rootProject.name = "capstonelogin"
 include ':app'
