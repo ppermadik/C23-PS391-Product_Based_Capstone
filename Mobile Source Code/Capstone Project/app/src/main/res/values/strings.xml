@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">capstone</string>
+    <string name="title_home">Home</string>
+    <string name="title_menu">Dashboard</string>
+    <string name="title_notifications">Profile</string>
+    <string name="title_dashboard">News</string>
+    <string name="title_login_page">WELCOME TO MYRITIME</string>
+    <string name="message_login_page">Mari kita memajukan industri perikanan di indonesia ini !!!</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="copyright">MYRitime</string>
+    <string name="password">Password</string>
+    <string name="failed">Gagal</string>
+    <string name="title_signup_page">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="signup">SignUp</string>
+    <string name="password_length">Harus lebih dari 8 karakter</string>
+    <string name="registration_success">Berhasil</string>
+    <string name="registration_failed">Berhasil</string>
+    <string name="full_name">Fullname</string>
+    <string name="title_welcome_page">WELCOME TO MYRITIME</string>
+    <string name="message_welcome_page">Let</string>
+    <string name="harga_ikan_text">Harga Ikan: %s</string>
+    <string name="splash_screen_text">MYRITIME</string>
+    <string name="internet_error">ERROR</string>
+    <string name="logout">LogOut</string>
+    <string name="username">Username</string>
+    <string name="profile_image">image</string>
+    <string name="te">Username</string>
+
+
+</resources>
