@@ -1,5 +1,5 @@
 const express = require('express');
-const { handlerGetUsers, handlerGetUserById, handlerRegisterUser, handlerLoginUser, handlerGetUserLoggedIn } = require('./handler');
+const { handlerGetUsers, handlerGetUserById, handlerRegisterUser, handlerLoginUser } = require('./handler');
 const authenticationToken = require('../../middlewares/authenticationToken');
 const router = express.Router();
 
