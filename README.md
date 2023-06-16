@@ -18,3 +18,6 @@ https://docs.google.com/document/d/1eyBP6z_2kyb_fZT2kLN_Ssbhgquljsds4DFA0D_WSAg/
 
 Project Presentation Link:
 https://docs.google.com/presentation/d/1SYJuavD0JkUOKX4wue9NontxUZQIs-cFw12ezTHdVdU/edit?usp=sharing
+
+Dokumentasi MyRitime API:
+https://documenter.getpostman.com/view/26398579/2s93sf4CJv
