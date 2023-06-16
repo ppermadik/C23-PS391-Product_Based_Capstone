@@ -6,3 +6,6 @@ https://docs.google.com/document/d/1fIt5-KQjEcYFIdaZUquNmZB0iSlKSyWEVB30_yUXHIo/
 
 Link Project Mnagement :
 https://docs.google.com/document/d/1yd3Im6WcCMoqK3yQVaOUEPDG8Li8RNj883EuuufmmrI/edit
+
+Dokumentasi MyRitime API:
+https://documenter.getpostman.com/view/26398579/2s93sf4CJv
